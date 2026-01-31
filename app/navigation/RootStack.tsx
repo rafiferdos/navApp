@@ -6,7 +6,7 @@ const RootStackNavigation = () => {
 
   return (
     <Stack.Navigator>
-      <Stack.Screen name='Home' component={Home} />
+      <Stack.Screen name='Welcome Rafi' component={Home} />
     </Stack.Navigator>
   )
 }
